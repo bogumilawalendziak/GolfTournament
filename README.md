@@ -1,6 +1,6 @@
 # GolfTournament Application
 
-REST Spring Boot application that receives golf tournament data from different sources, maps the incoming JSON into a unify format, and saves it in a database.
+REST Spring Boot application in Kotlin that receives golf tournament data from different sources, maps the incoming JSON into a unify format, and saves it in a database.
 
 ## Overview
 
